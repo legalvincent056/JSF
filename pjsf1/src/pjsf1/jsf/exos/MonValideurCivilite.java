@@ -16,7 +16,7 @@ public class MonValideurCivilite implements Validator {
 		
 		String inputData = value.toString();
 		
-		if(! inputData.equals("Mr") || inputData.equals("Mme") || inputData.equals("Mlle")){
+		if(! (inputData.equals("Mr") || inputData.equals("Mme") || inputData.equals("Mlle"))){
 				
 				FacesMessage msg = new FacesMessage("Erreur de civilite (Mr,Mme,Mlle)");
 				

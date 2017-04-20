@@ -1,4 +1,4 @@
-package pjsf1.jsf.exos;
+package pjsf2.jsf.exos;
 
 import javax.faces.application.FacesMessage;
 import javax.faces.bean.ApplicationScoped;

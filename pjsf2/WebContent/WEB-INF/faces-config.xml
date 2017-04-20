@@ -19,7 +19,7 @@
  
  <validator>
  	<validator-id>civiliteValidator</validator-id>
- 	<validator-class>pjsf1.jsf.exos.MonValideurCivilite</validator-class>
+ 	<validator-class>pjsf2.jsf.exos.MonValideurCivilite</validator-class>
  </validator> 
  
 </faces-config>
